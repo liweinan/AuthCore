@@ -3,3 +3,5 @@
 target/
 htyuc.env
 .env
+# envs/ 下仅提交 *.env.sample；本机复制出的真实配置勿提交
+envs/*/*.env
